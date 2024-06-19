@@ -1,4 +1,4 @@
-docker.io/ubuntu/ngin:latest
+docker.io/ubuntu/nginx:latest
 docker.io/library/nginx:latest
 
 docker.io/library/tomcat:latest
