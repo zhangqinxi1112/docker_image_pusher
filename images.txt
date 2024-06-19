@@ -1,1 +1,12 @@
-tomcat
+docker.io/library/tomcat:latest
+docker.io/library/nginx:latest
+docker.io/ubuntu/apache2.latest
+docker.io/library/httpd:latest
+docker.io/library/mysql:latest
+docker.io/library/mariadb:latest
+docker.io/library/postgres:latest
+docker.io/library/redis:latest
+docker.io/mailcow/postfix:latest
+docker.io/library/postfixadmin:latest
+docker.io/mailcow/dovecot:latest
+docker.io/dovecot/dovecot:latest
