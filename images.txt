@@ -6,6 +6,7 @@ docker.io/library/tomcat:latest
 docker.io/ubuntu/apache2:latest
 docker.io/library/httpd:latest
 
+docker.io/ubuntu/mysql:latest
 docker.io/library/mysql:latest
 docker.io/library/mariadb:latest
 docker.io/library/postgres:latest
