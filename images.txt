@@ -8,6 +8,5 @@ docker.io/library/postgres:latest
 docker.io/library/redis:latest
 docker.io/mailcow/postfix:latest
 docker.io/library/postfixadmin:latest
-docker.io/mailcow/dovecot:latest
 docker.io/dovecot/dovecot:latest
 registry.k8s.io/coredns/coredns:v1.11.1
