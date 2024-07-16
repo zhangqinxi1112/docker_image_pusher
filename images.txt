@@ -1,6 +1,1 @@
-docker.io/library/nginx:latest
-docker.io/library/httpd:latest
-docker.io/library/tomcat:latest
-docker.io/library/mysql:latest
-docker.io/library/mariadb:latest
-docker.io/library/postgres:latest
+vulnerables/web-dvwa
